@@ -3,9 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://shrisudhan97.github.io/Portfolio"
-
-  "scripts": {
+  "homepage": "https://shrisudhan97.github.io/Portfolio",
+  "scripts":{
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
