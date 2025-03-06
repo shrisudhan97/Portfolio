@@ -1,0 +1,59 @@
+@import "tailwindcss";
+@font-face {
+    font-family: name;
+    src: url(Fonts/Sigmar/Sigmar-Regular.ttf);
+}
+.font-sudhan{
+    font-family:"name";
+}
+@font-face {
+    font-family: navbar;
+    src: url(Fonts/BarlowCondensed-Light.ttf);
+}
+.font-nav{
+    font-family:"navbar";
+}
+@font-face {
+    font-family: text;
+    src:url(Fonts/Cinzel-VariableFont_wght.ttf) ;
+}
+.font-text{
+    font-family:"text";
+}
+
+@font-face {
+    font-family: heading;
+    src:url(Fonts/Doto-VariableFont_ROND,wght.ttf) ;
+}
+.font-heading{
+    font-family:"heading";
+}
+
+
+@font-face {
+    font-family: text;
+    src:url(Fonts/Baskervville-Regular.ttf) ;
+}
+.font-text{
+    font-family:"text";
+}
+
+@font-face {
+    font-family: code;
+    src:url(Fonts/IBMPlexMono-Light.ttf) ;
+}
+.font-code{
+    font-family:"code";
+}
+
+@font-face {
+    font-family: code1;
+    src:url(Fonts/CourierPrime-Italic.ttf);
+}
+.font-code1{
+    font-family:"code1";
+}
+.scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }
+  
